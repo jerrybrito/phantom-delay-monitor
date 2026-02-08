@@ -1,0 +1,2 @@
+# Requires: paradoxical-infinity
+# (Not available on PyPI)
